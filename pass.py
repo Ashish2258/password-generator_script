@@ -1,3 +1,5 @@
+#CREATED BY ASHISH@HACKER
+#CODE WRITTEN BY ASHISH@HACKER
 import random
 import array
 
