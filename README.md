@@ -1,5 +1,5 @@
 # password-generator_script
-This python script makes a strong password of 12 digits and also more than 12 digits..
+This python script makes a strong password of any number of digits.
 
 
 ---Usage---
